@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/DWH_Project/src"/>
+	<classpathentry kind="lib" path="/home/farjad/Documents/1. UNIVERSITY FOLDER/7th sem/DWH/Project/Resources/mysql-connector-java-8.0.27.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/apache.commons.collections4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
